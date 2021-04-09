@@ -6,7 +6,7 @@ if n<=0:
 elif n==1:
 	print(i)
 else :
-    str = "FIBBONACCI"
+    str = "FIBBONACCI SERIES"
     print(str.center(20,'*'))
     while count<=n:
     	print(i)
